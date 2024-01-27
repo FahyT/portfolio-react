@@ -1,0 +1,44 @@
+{
+  "project1": {
+    "id": 1,
+    "title": "project1",
+    "screenshot": "PLACEHOLDER",
+    "url_deployed": "PLACEHOLDER",
+    "url_github": "PLACEHOLDER"
+  },
+  "project2": {
+    "id": 2,
+    "title": "project1",
+    "screenshot": "PLACEHOLDER",
+    "url_deployed": "PLACEHOLDER",
+    "url_github": "PLACEHOLDER"
+  },
+  "project3": {
+    "id": 3,
+    "title": "project1",
+    "screenshot": "PLACEHOLDER",
+    "url_deployed": "PLACEHOLDER",
+    "url_github": "PLACEHOLDER"
+  },
+  "project4": {
+    "id": 4,
+    "title": "project1",
+    "screenshot": "PLACEHOLDER",
+    "url_deployed": "PLACEHOLDER",
+    "url_github": "PLACEHOLDER"
+  },
+  "project5": {
+    "id": 5,
+    "title": "project1",
+    "screenshot": "PLACEHOLDER",
+    "url_deployed": "PLACEHOLDER",
+    "url_github": "PLACEHOLDER"
+  },
+  "project6": {
+    "id": 6,
+    "title": "project1",
+    "screenshot": "PLACEHOLDER",
+    "url_deployed": "PLACEHOLDER",
+    "url_github": "PLACEHOLDER"
+  }
+}
