@@ -1,44 +1,50 @@
 {
   "project1": {
     "id": 1,
-    "title": "project1",
-    "screenshot": "PLACEHOLDER",
-    "url_deployed": "PLACEHOLDER",
-    "url_github": "PLACEHOLDER"
+    "title": "Mood Match",
+    "screenshot": "src/assets/moodapp-screenshot.png",
+    "description": "MoodMatch is a web application that helps users discover music playlists based on their mood and provides information about venues related to the artists in the playlist.",
+    "url_deployed": "https://angelica-zach.github.io/Mood-App/",
+    "url_github": "https://github.com/angelica-zach/Mood-App"
   },
   "project2": {
     "id": 2,
-    "title": "project1",
-    "screenshot": "PLACEHOLDER",
-    "url_deployed": "PLACEHOLDER",
-    "url_github": "PLACEHOLDER"
+    "title": "Weather Dashboard",
+    "screenshot": "src/assets/weatherdash_screenshot.png",
+    "description": "A web app written in javascript, HTML and CSS that displays today's weather and a 5-day forecast (showing every 3 hours) for a city of the user's choice.",
+    "url_deployed": "https://fahyt.github.io/weather-dashboard/",
+    "url_github": "https://github.com/FahyT/weather-dashboard"
   },
   "project3": {
     "id": 3,
-    "title": "project1",
-    "screenshot": "PLACEHOLDER",
-    "url_deployed": "PLACEHOLDER",
-    "url_github": "PLACEHOLDER"
+    "title": "Daily Planner",
+    "screenshot": "src/assets/planner_screenshot.png",
+    "description": "A calendar application that allows a user to save events for each hour of the day.",
+    "url_deployed": "https://github.com/FahyT/daily-planner",
+    "url_github": "https://fahyt.github.io/daily-planner/"
   },
   "project4": {
     "id": 4,
-    "title": "project1",
-    "screenshot": "PLACEHOLDER",
-    "url_deployed": "PLACEHOLDER",
-    "url_github": "PLACEHOLDER"
+    "title": "Code Quiz",
+    "screenshot": "src/assets/quiz_page_screenshot.png",
+    "description": "A web app written in javascript, HTML and CSS that displays a coding quiz and allows the user to record their highscore.",
+    "url_deployed": "https://fahyt.github.io/Code-Quiz/",
+    "url_github": "https://github.com/FahyT/Code-Quiz"
   },
   "project5": {
     "id": 5,
-    "title": "project1",
-    "screenshot": "PLACEHOLDER",
-    "url_deployed": "PLACEHOLDER",
-    "url_github": "PLACEHOLDER"
+    "title": "Password Generator",
+    "screenshot": "src/assets/pwgenerator_screenshot.png",
+    "description": "A javascript app that generates a password based on user input.",
+    "url_deployed": "https://fahyt.github.io/Password-Generator",
+    "url_github": "https://github.com/FahyT/Password-Generator"
   },
   "project6": {
     "id": 6,
-    "title": "project1",
-    "screenshot": "PLACEHOLDER",
-    "url_deployed": "PLACEHOLDER",
-    "url_github": "PLACEHOLDER"
+    "title": "Horiseon Web Services",
+    "screenshot": "src/assets/horiseon_screenshot.png",
+    "description": "This project altered the HTML of an existing site to increase its SEO performance through use of semantic attributes.",
+    "url_deployed": "https://fahyt.github.io/horiseon-web-services/",
+    "url_github": "https://github.com/FahyT/horiseon-web-services"
   }
 }

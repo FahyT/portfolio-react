@@ -5,8 +5,7 @@ export default function Projects() {
   const dataArr = Object.values(projectData);
 
   return (
-    <div>
-      <h1>Projects</h1>
+    <div className="container-fluid">
       <div className="row">
         {dataArr.map((p) => (
           <Project project={p} key={p.id} />
